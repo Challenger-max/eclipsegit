@@ -8,7 +8,7 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 
 public class MainBackground {
-
+//2222
 	private Image img;
 	private int x;
 	private int y;
